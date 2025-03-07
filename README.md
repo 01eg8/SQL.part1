@@ -34,24 +34,24 @@
 
 ### Задание 1
 
-![img]()
+![img](https://github.com/01eg8/SQL.part1/blob/main/img/Screenshot%20from%202025-03-08%2000-05-20.png)
 
 ### Задание 2
 
-![img]()
+![img](https://github.com/01eg8/SQL.part1/blob/main/img/Screenshot%20from%202025-03-08%2000-06-08.png)
 
 ### Задание 3
 
-![img]()
+![img](https://github.com/01eg8/SQL.part1/blob/main/img/Screenshot%20from%202025-03-08%2000-06-24.png)
 
 ### Задание 4
 
-![img]()
+![img](https://github.com/01eg8/SQL.part1/blob/main/img/Screenshot%20from%202025-03-08%2000-06-46.png)
 
 ### Задание 5
 
-![img]()
+![img](https://github.com/01eg8/SQL.part1/blob/main/img/Screenshot%20from%202025-03-08%2000-07-58.png)
 
 ### Задание 6
 
-![img]()
+![img](https://github.com/01eg8/SQL.part1/blob/main/img/Screenshot%20from%202025-03-08%2000-08-12.png)
